@@ -1,0 +1,86 @@
+{
+  "rave_name": "GRAHAM",
+  "rave_extension": ".BIN",
+  "bitmaps": [
+    {
+      "img": "_0.png",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "img": "_1.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_2.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_3.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_4.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_5.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_6.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_7.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_8.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_9.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_10.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_11.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_12.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_13.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_14.png",
+      "xOffset": 40,
+      "yOffset": 66
+    },
+    {
+      "img": "_15.png",
+      "xOffset": 40,
+      "yOffset": 45
+    }
+  ]
+}
