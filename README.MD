@@ -55,7 +55,7 @@ Once everything is setup you can run the command like so:
 go run main.go Characters/KingGraham/GRAHAM.json
 ```
 If the command runs with no errors you should see a file generated in the character folder called:
-`<character-name_GEN.BIN>`. Which can be place in your version of KQ6 actors folder. Be sure to overwrite the existing
+`<character-name_GEN.BIN>`. Which can be placed in your version of the KQ6 `ACTORS/` folder. Be sure to overwrite the existing
 character or the new file will not be used by the game.
 
 ## Credits
