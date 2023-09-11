@@ -52,15 +52,12 @@ Once everything is setup you can run the command like so:
 ```go
 go run main.go Characters/KingGraham/GRAHAM.json
 ```
+If the command runs with no errors you should see a file generated in the character folder called:
+`<character-name_GEN.BIN>`. Which can be place in your version of KQ6 actors folder. Be sure to overwrite the existing
+character or the new file will not be used by the game.
 
 ## Credits
 
 This utility was only possible by referencing the RAVE file-format documented in the SCUMMVM implementation. Many thanks
 goes to the original contributors to SCUMMVM and the FreeSCI project who took to the time to reverse engineer Sierra's
 great gaming legacy.
-
-If the command runs with no errors you should see a file generated in the character folder called: 
-`<character-name_GEN.BIN>`. Which can be place in your version of KQ6 actors folder. Be sure to overwrite the existing
-character or the new file will not be used by the game.
-
-
