@@ -6,6 +6,8 @@ portraits for the game King's Quest 6.
 
 ## Demo Time!
 
+https://github.com/deckarep/SCI-Rave-Hires-Portrait-Encoder/assets/200686/e6e95679-27f4-41f9-8ed1-12df32562d0f
+
 Things you can currently do:
 
 - Modify existing character portraits
